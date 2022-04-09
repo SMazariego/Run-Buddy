@@ -7,7 +7,7 @@
   
   /* more on this crazy alphanumerical value in a minute! */
   body { color: #39a6b2;
-    font-family: Arial, Helvetica, sans-serif;}
+    font-family: Helvetica, Arial, sans-serif;}
 
 /* apply styles to <header> */
 header {
@@ -66,6 +66,16 @@ footer a {
   color: #024e76;
 }
 
+Section {
+  padding: 60px; 
+}
+
+/* Hero Styke Start */
+.hero {
+  background-image: url('../css/images/hero-bg.jpeg');
+  height: 600px;
+}
+/* Hero Style End */
 
 
 
